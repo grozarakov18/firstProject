@@ -1,0 +1,26 @@
+.jil{
+    color: rgb(100, 70, 170);
+}
+body{
+    padding-left: 11em;
+    color: rgb(0, 128, 49);
+    background-image: url(https://i.pinimg.com/originals/c4/44/5e/c4445e8405ed7e8b03e8e293b7bc99a0.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+header{
+    padding-left: 11em;
+    background-color:rgb(255, 145, 0);
+}
+footer{
+    padding-left: 1em;
+    background-color: rgb(252, 0, 0);
+}
+p{
+    color: #5cfce1;
+    width: 500px;
+    border: 1px solid rgb(193, 8, 199);
+}
+
+
